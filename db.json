@@ -24,6 +24,22 @@
             "shopId": 1,
             "time": "11:30",
             "isDeleted": false
+        },
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 2,
+            "time": "11:30",
+            "isDeleted": false
+        },
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 3,
+            "time": "12:30",
+            "isDeleted": false
         }
     ],
     "shop": [
