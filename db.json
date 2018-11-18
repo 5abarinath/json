@@ -1,19 +1,51 @@
 {
-"profile": [
-    {
-    "contact": {
-        "phoneNo": "8403028928",
-        "emailId": "abc@gmail.com"
-    },
-    "loyalty": {
-        "balance": 10,
-        "redeemed": 0
-    },
-    "_id": 1,
-    "firstName": "Atul",
-    "lastName": "Kadam",
-    "gender": "Male",
-    "age": "27",
-    "isDeleted": false
-    }]
+    "profile": [
+        {
+        "contact": {
+            "phoneNo": "8403028928",
+            "emailId": "abc@gmail.com"
+        },
+        "loyalty": {
+            "balance": 10,
+            "redeemed": 0
+        },
+        "_id": 1,
+        "firstName": "Atul",
+        "lastName": "Kadam",
+        "gender": "Male",
+        "age": "27",
+        "isDeleted": false
+        }],
+    "routing": [
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 1,
+            "time": "11:30",
+            "isDeleted": false
+        }
+    ],
+    "shop": [
+        {
+            "delas": {
+              "dealId": 1,
+              "description": "Deal 1",
+              "expiry": "10/12/2010"
+            },
+            "_id": 1,
+            "name": "Shop1",
+            "isDeleted": false
+        },
+        {
+            "delas": {
+              "dealId": 1,
+              "description": "Deal 1",
+              "expiry": "10/12/2010"
+            },
+            "_id": 2,
+            "name": "Shop2",
+            "isDeleted": false
+        }
+    ]
 }
