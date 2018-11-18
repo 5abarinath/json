@@ -1,5 +1,6 @@
-[
 {
+"profile": [
+    {
     "contact": {
         "phoneNo": "8403028928",
         "emailId": "abc@gmail.com"
@@ -14,21 +15,5 @@
     "gender": "Male",
     "age": "27",
     "isDeleted": false
-},
-{
-    "contact": {
-        "phoneNo": "8403028928",
-        "emailId": "abc@gmail.com"
-    },
-    "loyalty": {
-        "balance": 10,
-        "redeemed": 0
-    },
-    "_id": 1,
-    "firstName": "Atul",
-    "lastName": "Kadam",
-    "gender": "Male",
-    "age": "27",
-    "isDeleted": false
+    }]
 }
-]
