@@ -40,6 +40,38 @@
             "shopId": 3,
             "time": "12:30",
             "isDeleted": false
+        },
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 4,
+            "time": "12:30",
+            "isDeleted": false
+        },
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 5,
+            "time": "1:30",
+            "isDeleted": false
+        },
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 6,
+            "time": "2:00",
+            "isDeleted": false
+        },
+        {
+            "_id": 1,
+            "userId": 1,
+            "routeDate": "2018-10-11T18:30:00.000Z",
+            "shopId": 7,
+            "time": "4:00",
+            "isDeleted": false
         }
     ],
     "shop": [
