@@ -21,7 +21,7 @@
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 1,
+            "shopId": "poi_1efc4975-ce5f-4c7f-8d4a-6275ac86e4c7",
             "time": "11:30",
             "isDeleted": false
         },
@@ -29,15 +29,15 @@
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 2,
-            "time": "11:30",
+            "shopId": "poi_1efc4975-ce5f-4c7f-8d4a-6275ac86e4c7",
+            "time": "11:45",
             "isDeleted": false
         },
         {
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 3,
+            "shopId": "poi_0bf9d78d-d53b-4030-883e-2d3ec8b9d56d",
             "time": "12:30",
             "isDeleted": false
         },
@@ -45,7 +45,7 @@
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 4,
+            "shopId": "poi_0c99e444-b174-4236-b341-484addf66784",
             "time": "12:30",
             "isDeleted": false
         },
@@ -53,7 +53,7 @@
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 5,
+            "shopId": "poi_16a853f5-02a9-4c10-bc35-c5adba7e5a45",
             "time": "1:30",
             "isDeleted": false
         },
@@ -61,7 +61,7 @@
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 6,
+            "shopId": "poi_32114fde-dc00-4a2a-8b29-ad4497d855a1",
             "time": "2:00",
             "isDeleted": false
         },
@@ -69,7 +69,7 @@
             "_id": 1,
             "userId": 1,
             "routeDate": "2018-10-11T18:30:00.000Z",
-            "shopId": 7,
+            "shopId": "poi_32114fde-dc00-4a2a-8b29-ad4497d855a1",
             "time": "4:00",
             "isDeleted": false
         }
